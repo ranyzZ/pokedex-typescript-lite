@@ -1,6 +1,6 @@
 import type { PokemonResumo, PokemonApiResponse } from '../models/Pokemon';
 
-class PokeApiService {
+export class PokeApiService {
   private baseUrl = 'https://pokeapi.co/api/v2/pokemon';
 
   async buscarPokemon(nomeOuId: string): Promise<PokemonResumo | null> {

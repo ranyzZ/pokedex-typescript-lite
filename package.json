@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ranyzZ/pokedex-typescript-lite/issues"
   },
-  "homepage": "https://github.com/ranyzZ/pokedex-typescript-lite#readme"
+  "homepage": "https://github.com/ranyzZ/pokedex-typescript-lite#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
 }
