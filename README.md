@@ -115,4 +115,4 @@ https://github.com/users/ranyzZ/projects/2
 
 ---
 
-Desenvolvido por ranyzZ
+Desenvolvido por Rani Cavalcante Silva
