@@ -105,7 +105,7 @@ Fetch e async/await: consulta à PokeAPI com tratamento de erros.
 
 ## Link do Kanban
 
-https://github.com/users/ranyzZ/projects/1
+https://github.com/users/ranyzZ/projects/2
 
 ## Melhorias futuras
 
